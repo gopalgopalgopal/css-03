@@ -1,0 +1,9 @@
+h1{
+  text-align: center;
+}
+
+.caption{
+  background-color: white;
+  color:        balck;
+  opacity: 0.75px;
+}
